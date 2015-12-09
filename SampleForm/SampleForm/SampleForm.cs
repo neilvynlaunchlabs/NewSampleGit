@@ -15,7 +15,7 @@ namespace SampleForm
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!"
+							Text = "Gwapo si Neil"
 						}
 					}
 				}
