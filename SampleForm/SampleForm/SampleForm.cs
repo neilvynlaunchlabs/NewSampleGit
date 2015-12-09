@@ -15,7 +15,7 @@ namespace SampleForm
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Pinakagwapo si Neil. Dako pa jd iyang lawas."
+							Text = "Pinakagwapo si Neil. Dako pa jd iyang lawas. Killer smile pa jd."
 						}
 					}
 				}
